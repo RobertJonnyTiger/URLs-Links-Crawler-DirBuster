@@ -1,0 +1,7 @@
+#  URLs list for spider.py Add as many as you want in the correct form
+#  http://example.com
+#  Enjoy!:
+#
+http://youtube.com/
+http://yahoo.com/
+http://localhost/
