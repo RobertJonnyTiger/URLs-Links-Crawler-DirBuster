@@ -19,3 +19,7 @@ To change that, all you have to do is use the flag `-r` or `--recurse` followed 
 *Example:*
 
   * `python3 -u http://localhost/ -r 42`
+
+## Requirements:
+1. Python3
+2. BeautifulSoup
