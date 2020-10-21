@@ -17,7 +17,7 @@ This tool takes a list of starting URLs, crawls them, finds local links recursiv
 
   * *Example:*
   
-   * `python3 -u http://localhost/ -r 42`
+  * * `python3 -u http://localhost/ -r 42`
 
 ## Requirements:
 1. Python3
