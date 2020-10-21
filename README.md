@@ -16,8 +16,7 @@ This tool takes a list of starting URLs, crawls them, finds local links recursiv
   * By default, recurse level is set to 5 (5 links to crawl from every page) To change that, all you have to do is use the flag `-r` or `--recurse` followed by an `int`.
 
   * *Example:*
-  
-  * * `python3 -u http://localhost/ -r 42`
+    * `python3 -u http://localhost/ -r 42`
 
 ## Requirements:
 1. Python3
