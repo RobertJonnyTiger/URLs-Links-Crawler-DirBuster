@@ -1,6 +1,6 @@
 # URLs Links Crawler + DirBuster
 A spider to crawl links from webpages recursivley with a dir busting option.
-This tool takes a list of starting URLs, crawls them, finds local links recursively and logs them to Crawled Links.log. Also, it has DirBusting option.
+This tool takes a list of starting URLs, crawls them, finds local links recursively and logs them to Crawled Links.log. Also, it has a DirBusting option.
 
 ## Example Usage:
   * `python3 spider.py -u http://localhost/`
